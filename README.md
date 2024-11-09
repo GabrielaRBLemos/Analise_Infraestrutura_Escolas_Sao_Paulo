@@ -26,4 +26,3 @@ Este projeto analisa a infraestrutura e qualidade das escolas de São Paulo com 
 
 ### **Entrega 3 (Em Andamento)**
 
-A terceira atividade está em andamento e tem como foco a análise qualitativa das escolas, utilizando os indicadores e resultados das atividades anteriores. O plano inclui uma avaliação mais profunda sobre como a infraestrutura impacta a qualidade educacional, com propostas para melhoria das condições de ensino.
