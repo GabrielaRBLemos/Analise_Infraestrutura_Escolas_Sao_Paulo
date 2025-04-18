@@ -24,5 +24,14 @@ Este projeto analisa a infraestrutura e qualidade das escolas de São Paulo com 
   - Visualização gráfica dos resultados.
 - **Entrega**: Relatório em Word com análise detalhada, incluindo os nomes dos integrantes da equipe.
 
-### **Entrega 3 (Em Andamento)**
+### **Entrega 3: Diferenciais de Infraestrutura por Localização da Escola**
+
+- **Objetivo**: Analisar o indicador-resumo de infraestrutura das escolas segmentado por localização (urbana e rural).
+- **Tarefas**:
+  - Análise segmentada do indicador-resumo de infraestrutura das escolas por localização, apresentando dados comparativos entre escolas urbanas e rurais.
+  - Cálculo e apresentação de estatísticas descritivas, como média, desvio padrão e coeficiente de variação.
+  - Realização de um teste de hipóteses (Teste t) para verificar se há diferenças significativas no indicador-resumo entre escolas rurais e urbanas.
+  - Análise e interpretação dos resultados encontrados.
+- **Entrega**: Relatório em formato Python, contendo os resultados e os nomes de todos os integrantes da equipe.
+
 
